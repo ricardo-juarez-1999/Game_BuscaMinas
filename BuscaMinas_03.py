@@ -5,7 +5,7 @@ import time
 import random as rm
 
 #\\<=>=//#||''
-
+print("Primera prueba para comprobar estado en GitHub")
 ## random.randint(a, b)   Elige uno de dos numeros al azar
 ## random.choice(lista)   Elige algun elemento al azar de una lista 
 ## random.sample(lista, k)   Elige k elememtos unicos al azar (sin repetir)
