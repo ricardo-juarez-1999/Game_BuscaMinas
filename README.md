@@ -23,6 +23,4 @@ print("Hola")
 
 
 ## *Imagenes*
-#![Juego](imagenes/menu.png)
 
-![Fondo](<ONE PIECE.jpg>)
