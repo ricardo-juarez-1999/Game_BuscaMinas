@@ -6,5 +6,4 @@ print("Basado en el Clasico BuscaMinas")
 print("La intención es hacer un juego donde:")
 print("La Creatividad es Ley")
 ```
-## *Imagenes*
 ![BuscaMinas](BuscaMinas_GitHub.png)
