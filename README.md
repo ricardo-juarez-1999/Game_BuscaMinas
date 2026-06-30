@@ -23,4 +23,5 @@ print("Hola")
 
 
 ## *Imagenes*
+![BuscaMinas](BuscaMinas_GitHub.png)
 
