@@ -1,4 +1,4 @@
-## *Juego del BuscaMinas en Desarrollo*
+## 🎮*Juego del BuscaMinas en Desarrollo*🎮
 ```python
 print("Hola")
 print("Este es un juego en desarrollo")
@@ -8,25 +8,31 @@ print("La Creatividad es Ley")
 ```
 ![Portada](assets/BuscaMinas_GitHub.png)
 ## 🔍*Características*
-### - Lectura de multiples archivos CSV
+### - Elección del tamaño del campo jugable
+### - Elección de dificultad
+### - Cambiar emojis del juego
 ## ⚙*Instalación*
 ### 1.- Clona el repositorio
 ### 2.- Instala las dependencias desde tu terminal: 
-### pip install pandas matplotlib seaborn
-## ▶*Cómo usar*
-### Reemplaza la dirección entre parentesis por la de tus archivos CSV en:
+### pip install numpy
+### 3.- Ejecuta *BuscaMinas_03.py*
+## ▶*Cómo jugar*
+### 4.- Ingresa el tamaño del campo del juego (En forma de Matriz)
+### 5.- Elige la dificultad
+### 6.- Ingresa la posición que quieres desbloquear (En forma de fila y columna)
+### 7.- Repite el proceso hasta que desbloquees todas las banderitas
 ## 🖼*Capturas*
-### Reporte limpio:
+### En proceso...
 ## 🛠*Tecnologías utilizadas*
 ### - Python 3.13.9
-### - Matplotlib
-### - Pandas
-### - Glob
-### - Seaborn
+### - Numpy
 ### - Git
 ### - Github
 ## 📈*Futuras mejoras*
-### - Mejora visual de las graficas
+### - Visualización en pantalla externa
+### - Conteo del numero de bombas alrededor de tu posición 
+### - Efectos visuales y de sonido
+### - Distintos niveles y escenarios 
 ## 📜*Licencia*
 ## 🗿*Autor*
 ### Ricardo Brayan Juarez Valencia
